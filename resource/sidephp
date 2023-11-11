@@ -1,0 +1,11 @@
+<div class="sidebar">
+    <ul style="list-style-type: none;" class='sidebar-brand' id=''>
+        <li><a href='dashboard.php'>Dashbord</a></li>
+        <li><a href="registerstudent.php">Register Students</a></li>
+        <li><a href="fee.php">Setup Fee</a></li>
+        <li><a href='payment.php'>Enter payment </a></li>
+        <li><a href='reportpayment.php'>Payment Report</a></li>
+        <li><a href='deletestudent.php'>Delete Students</a></li>
+        <li><a href='classlist.php'>Generate class list</a></li>
+    </ul>
+</div>
